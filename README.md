@@ -241,6 +241,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to easily code and organize at a scale C4 model diagrams.
 - [Keyring Demo](https://github.com/open-source-cooperative/keyring-rs/wiki/Keyring) ![v2] - GUI for the Rust `keyring` ecosystem
 - [KFtray](https://github.com/hcavarsan/kftray) - A tray application that manages port forwarding in Kubernetes.
+- [Kunobi](https://kunobi.ninja) ![closed source] - Rust Kubernetes management from your desktop, with built-in MCP server.
 - [PraccJS](https://github.com/alyalin/PraccJS) - Lets you practice JavaScript with real-time code execution.
 - [PromptLab](https://github.com/haideralsh/prompt-lab) ![v2] - Open-source, cross-platform desktop app for building and providing code-related context to large language models
 - [nda](https://github.com/kuyoonjo/nda) - Network Debug Assistant - UDP, TCP, Websocket, SocketIO, MQTT
@@ -306,6 +307,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [Chessifier](https://github.com/Chessifier/chessifier) ![v2] - The Ultimate Chess Toolkit.
 - [clear](https://clear.adithya.zip) - Clean and minimalist video game library manager and launcher.
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility.
+- [Deadlock Mod Manager](https://github.com/deadlock-mod-manager/deadlock-mod-manager) ![v2] - Mod manager for the Valve game Deadlock.
 - [En Croissant](https://github.com/franciscoBSalgueiro/en-croissant) - Chess database and game analysis app.
 - [FishLauncher](https://github.com/fishfight/FishLauncher) - Cross-platform launcher for `Fish Fight`.
 - [Gale](https://github.com/Kesomannen/gale) - Mod manager for many games on `Thunderstore`.
